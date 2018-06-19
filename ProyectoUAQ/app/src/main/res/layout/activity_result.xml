@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/main"
+    tools:context="com.example.vazquez.proyectouaq.ResultActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="@color/colorPrimaryDark2"
+            android:gravity="bottom"
+            android:fontFamily="cursive"
+            android:text="Retroalimentación"
+            android:textAlignment="center"
+            android:textColor="#4f6469"
+            android:textSize="32sp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:gravity="bottom"
+            android:backgroundTint="@color/color_degra"
+            android:textAlignment="center"
+            android:textColor="#b3ac55"
+            android:background="@color/color_white"
+            android:textSize="20sp" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">AppUAQ</string>
+    <string name="title_location">Ver ubicación</string>
+    <string name="question">Pregunta</string>
+    <string name="check">Check</string>
+    <string name="correct">Muy bien!</string>
+    <string name="incorrect">Incorrecto...</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Terminada</string>
+    <string name="prev">Anterior</string>
+    <string name="type">Enviar</string>
+
+    <!---><-->
+    <array name="all_questions">
+        <item>¿Cúal es el padecimiento actual?;4. Síndrome miofascial (Banda tensa).;3. Contractura;2. Punto gatillo;1. Desgarre muscular.
+        </item>
+        <item>¿Cúal es la fisiopatología?.;4. Liberación no controlada de acetilcolina con una contracción involuntaria y duradera de músculos, con un foco hiperirritabe dentro de una banda tensa.;3. Contracción involuntaria y duradera de músculos.; 2. Foco hiperirritable dentro de una banda tensa; 1. discontinuidad de fibras musculares.
+        </item>
+        <item>¿Cúales son los efectos fisiológicos?;4. Efecto excitomotor.;3. Analgesia.;2. Reparación tisular.;1. Efecto relajante. </item>
+        <item>¿Cúales son  los efectos terapéuticos sintomatológicos?;4. Contracciones musculares.;3. Alivio del dolor.;2. Mayor funcionalidad.;1. Relajación muscular.  </item>
+        <item>Ventajas y desventajas de la aplicación de electroterapia;4. No invasiva, económica y segura.;3. Económica.;2. No invasiva.;1. Segura.</item>
+        <item>¿Cúal es la corriente eléctrica ?;4.Baja frecuencia.;3. 1000 a 10 000 Hz.;2. Mediana Frecuencia.;1. Alta frecuencia</item>
+        <item>¿Se distingue la corriente a usar en base a la dirección del flujo de electricidad?;4. Alterna.;3. Movimiento de electrones bidireccional.;2. Movimiento de electrones unidireccional.;1. Directa </item>
+        <item>¿Cúales son los parámetros de la frecuencia?;4. 1 a 10 Hz.;3. 10 a 15 Hz.;2. 75 a 150 Hz.;1. 151 a 1000 Hz.  </item>
+        <item>¿Cúales son los parámetros de la intensidad?;4. Pregunta y modifica continuamente.;3. Pregunta y modifica intensidad.;2. Pregunta a paciente pero no modifica intensidad.;1. No se le pregunta al paciente sobre la sensación. </item>
+        <item>¿Cúales son los parámetros del tiempo?;4. De 8 a 14 minutos.;3. De 3 a 7 minutos.;2. De 15 a 20 minutos.;1. 20 minutos o más.  </item>
+        <item>Tipo de onda y características.;4. Image.;3. Image.;2. Image.;1. Imagen. </item>
+        <item>En caso de usar corriente directa, ¿cuál es la polaridad positiva o negativa?;4. No se utiiza corriente directa.;3. Negativo y positivo.;2. Negativo.;1. Positivo.  </item>
+        <item>¿Cúales la resistencia/impedancia?;4. de 1 a 2 cm.;3. De 3 a 4 cm.;2. De 5 a 6 cm.;1. De 0 cm.  </item>
+        <item>¿Posiciona al paciente en acorde al tratamiento a seguir?;4.Sedestación.;3. Posición prona.;2. En decúbito lateral izquierdo.;1. Bipedestación. </item>
+        <item>¿Se asegura que el aparato de electroterapia está listo para su utilización?;4. Lugar seguro, conexión segura, que el paciente haga tierra y equipo conectado.;3. Equipo conectado, lugar seguro y conexión segura.;2.Lugar seguro, conexión segura.;1. El paciente haga tierra. </item>
+        <item>¿Descubre la zona dónde se encuentra la afección del paciente, en dónde se efectuará el tratamiento de electroterapia?;4. one.;3. one.;2. one.;1. one. </item>
+        <item>¿Identifica la zona de aplicación de la electroterapia.?;4. Palpa al paciente, activa zona de dolor, la identifica y reconoce origen e inserción de trapecio.;3. Palpa al paciente y activa zona de dolor y la identifica.;2. Palpa al paciente y activa la zona de dolor.;1. Palpa al paciente.</item>
+        <item>¿Asegura que la zona dónde se aplicará electroterapia se encuentra limpia?;4. El aumno impia y desinfecta la zona a trabajar y los electrodos con alcohol.;3. Limpia la zona a trabajar con alcohol.;2. Limpia la zona a trabajar con agua.;1. Coloca directo los electrodos.  </item>
+        <item>¿Explica adecuadamente al paciente sobre lo que se le va a colocar?;4. Explica al paciente lo que se colocará, el porque de su aplicación, lo que va sentir.;3. Explica al paciente lo que se le colocará y el porqué de su aplicación.;2. Explica al paciente lo que le colocará.;1. No explica al paciente.</item>
+        <item>¿Identifica la zona de aplicación de los electrodos?;4.Coloca electrodos en el punto motor.;3. Coloca electrodos limitando la zona dolorosa.;2. coloca electrodos de manera transversal.;1. Coloca electrodos en zona anterior de cuello. </item>
+        <item>¿elige el tamaño de los electrodos que usará en la aplicación?.;4. Utiliza electrodos 5x5cm.;3. Utiliza electrodos 5x10 cm.;2. Utiliza electrodos de 10cm radio.;1. Utiliza electrodos de 1cm x 1cm. </item>
+        <item>¿Selecciona los electrodos a usar en base a la forma que tengan?.;4. Cuadrados.;3. Rectanguares.;2. Circulares.;1. Electrodos de Caucho. </item>
+        <item>¿Programa el equipo de acuerdo a la dosificación?.;4. Image.;3. Image.;2. Image.;1. Imagen. </item>
+    </array>
+    <!---><-->
+
+
+
+
+    <array name="all_questions_two">
+
+    <item>¿Cuál es el padecimiento actual?;Edema.;Linfedema.;Hombro congelado.;Radiculopatía.</item>
+    <item>¿Cuál es la fisiopatología?;Acumulación de líquido en espacio intersticial.;Acumulación de linfa en tejido blando de una extremidad.;Endurecimiento de la cápsula articular del hombro.;Perdida o disminución sensitiva o motora en  un nervio.</item>
+    <item>¿Cuáles son los efectos fisiológicos?;Sintesis de proteinas y remocion de desechos en el organismo.;Electroanalgesia.;Regeneracion tisular.;Efecto excitomotor.</item>
+
+
+    <item>¿Cuáles son los efectos terapéuticos sintomatológicos?;Disminucion de edema.;Efecto analgesico químico.;Aumento de sensibilidad.;Regeneración nerviosa . </item>
+    <item>Ventajas y desventajas de la aplicación de electroterapia.;No invasiva, económica y segura.;Económica.;No invasiva.;Segura.</item>
+    <item>¿Conoce las indicaciones y contraindicaciones de la utilización de electroterapia?.;INDICACIONES 4. Drenaje linfático   3. Dolor agudo o crónico  2. Espasmo muscular  1. Puntos gatillo CONTRAINDICACIONES.; Neoplasia, hemofilia, embarazo en los primeros meses, epilepsia, presencia de marcapasos.;Embarazo en los primeros meses, hipersensibilidad, neoplasias, heridas abiertas, atrofia muscular.;Hemofilia, cicatrización aguda, neoplasias, atrofia muscular, epilepsia, marcapasos.;Hemofilia, reflejos aumentados, sordomudez, marcapasos, hipertensión arterial, neoplasias.</item>
+    <item>¿Cuál es la corriente eléctrica?;Baja frecuencia.;1000 a 10000 Hz.;Mediana Frecuencia.;Alta frecuencia.</item>
+        <item>¿Se distingue la corriente a usar en base a la dirección del flujo de electricidad?;Alterna.;Movimiento de electrones bidireccional.;Movimiento de electrones unidireccional.;Directa. </item>
+        <item>¿Cuáles son los parámetros de la frecuencia?;1 a 10 Hz.;10 a 15 Hz.;75 a 150 Hz.;151 a 1000 Hz.  </item>
+          <item>¿Cuáles son los parámetros de la intensidad?;Pregunta y modifica continuamente.;Pregunta y modifica intensidad.;Pregunta a paciente pero no modifica intensidad.;No se le pregunta al paciente sobre la sensación. </item>
+          <item>¿Cuáles son los parámetros del tiempo?;De 8 a 14 minutos.;De 3 a 7 minutos.;De 15 a 20 minutos.;20 minutos o más.  </item>
+          <item>Tipo de onda y características.;Image.;Image.;Image.;Imagen. </item>
+          <item>En caso de usar corriente directa, ¿Cuál es la polaridad positiva o negativa?;No se utiliza corriente directa.;Negativo y positivo.;Negativo.;Positivo.  </item>
+          <item>¿Cuál es la resistencia/impedancia?;De 1 a 2 cm.;3. De 3 a 4 cm.;2. De 5 a 6 cm.;1. De 0 cm.  </item>
+
+          <item>¿Posiciona al paciente en acorde al tratamiento a seguir?;Sedestación.;Posición prona.;En decúbito lateral izquierdo.;Bipedestación. </item>
+          <item>¿Se asegura que el aparato de electroterapia está listo para su utilización?;Lugar seguro, conexión segura, que el paciente haga tierra y equipo conectado.;Equipo conectado, lugar seguro y conexión segura.;Lugar seguro, conexión segura.;El paciente haga tierra. </item>
+          <item>¿Descubre la zona dónde se encuentra la afección del paciente, en dónde se efectuará el tratamiento de electroterapia?;one.;one.;one.;one. </item>
+          <item>¿Identifica la zona de aplicación de la electroterapia.?;Identifica la ubicación de los ganglios linfaticos mas cercanos.;Delimita la zona del edema.;Palpa al paciente y delimita toda la zona.;Palpa al paciente.</item>
+          <item>¿Asegura que la zona dónde se aplicará electroterapia se encuentra limpia?;El alumno limpia y desinfecta la zona a trabajar y los electrodos con alcohol.;Limpia la zona a trabajar con alcohol.;Limpia la zona a trabajar con agua.;Coloca directo los electrodos.  </item>
+          <item>¿Explica adecuadamente al paciente sobre lo que se le va a colocar?;Explica al paciente lo que se colocará, el porqué de su aplicación, lo que va sentir.;Explica al paciente lo que se le colocará y el porqué de su aplicación.;Explica al paciente lo que le colocará.;No explica al paciente.</item>
+          <item>¿Identifica la zona de aplicación de los electrodos?;Coloca electrodos en ganglios linfaticos mas cercanos.;Coloca electrodos limitando la zona dolorosa.;Coloca electrodos rodeando toda la zona a tratar.;Coloca electrodos en axila.</item>
+          <item>¿Elige el tamaño de los electrodos que usará en la aplicación?.;Utiliza electrodos 5x5 cm.;Utiliza electrodos 5x10 cm.;Utiliza electrodos de 10cm radio.;Utiliza electrodos de 1cm x 1cm. </item>
+          <item>¿Selecciona los electrodos a usar en base a la forma que tengan?.;Cuadrados.;Rectangulares.;Circulares pequeños.;Electrodos de Caucho. </item>
+
+
+          <item>¿Programa el equipo de acuerdo a la dosificación?.;Image.;Image.;Image.;Imagen. </item>
+    </array>
+    <!--->
+          <item>¿Selecciona los electrodos a usar en base a la forma que tengan?</item>
+          <item>¿Aplica los electrodos en la piel del paciente?</item>
+          <item>¿Incrementa la intensidad o potencia en base a la percepción subjetiva del paciente </item>
+        <-->
+
+    <!---><-->
+    <string name="title_activity_caso">CasoActivity</string>
+    <string name="caso_cl_1">Caso Clínico 1</string>
+    <string name="caso_cl_2">Caso Clínico 2</string>
+    <string name="caso_cl_3">Caso Clínico 3</string>
+    <string name="caso_cl_4">Caso Clínico 4</string>
+    <string name="caso_cl_5">Caso Clínico 5</string>
+    <string name="caso_cl_6">Caso Clínico 6</string>
+    <string name="caso_cl_7">Caso Clínico 7</string>
+    <string name="caso_cl_8">Caso Clínico 8</string>
+    <string name="caso_cl_9">Caso Clínico 9</string>
+    <string name="caso_cl_10">Caso Clínico 10</string>
+
+    <!--Login-->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">INGRESAR</string>
+    <string name="btn_forgot_pass">¿Olvido su contraseña?</string>
+    <string name="btn_link_to_register">¿Aun no se ha registrado?¡registrese ahora mismo!</string>
+    <string name="txt_signup">REGISTRAR</string>
+    <string name="forgot_password">¿Olvido su contraseña?</string>
+    <string name="forgot_pass_msg">Solo necesitamos el correo electrónico con el que se haya registrado, para enviarle las instrucciones de restablecimiento de contraseña.</string>
+    <string name="btn_back"><![CDATA[<< REGRESAR]]></string>
+    <string name="btn_reset_password">Restablecer la contraseña</string>
+    <string name="minimum_password">Contraseña demasiado corta, ingrese un mínimo de 6 caracteres.</string>
+    <string name="auth_failed">¡Error al autentificar!, Por favor verifique su correo electrónico y contraseña o regístrese</string>
+    <!---->
+        <string name="start_top">M 20.7 7 C 21.1 6.6 21.1 6 20.7 5.6 L 18.4 3.3 C 18 2.9 17.4 2.9 17 3.3 L 15.2 5.1 L 19 8.9</string>
+        <string name="end_top">M 19.6 8 C 20 7.6 20 7 19.6 6.6 L 17.3 4.3 C 16.9 3.9 16.3 3.9 15.9 4.3 L 14.1 6.1 L 17.9 9.9</string>
+
+    <string name="text_exploration_two">• Inspección local: Se observa presencia de edema en toda la zona de tercio medio e inferior de húmero derecho acompañado de inflamación. • Sensibilidad: Disminuida en dermatomas C6 y C7 derecho. • Reflejos: Estiloradial y tricipital disminuídos. • Goniometría: Extensión= Derecha  -10 Izquierda 0 Flexión= Derecha  120 Izquierda  150. Pronación y supinación completas. • Examen Manual Muscular: Miembro superior derecho generalizado en 3/5 en escala de Daniels. • Pruebas Específicas: Godet ( + )</string>
+    <string name="text_case2">Paciente femenino de 22 años de edad de complexión ectomorfa, acude a servicio en fisioterapia derivada por médico traumatólogo con diagnóstico de fractura transversal corta en tercio distal de húmero derecho, con 9 semanas de evolución. Comenta sentir dolor 8/10 en escala numérica verbal de tipo punzante y constante localizado en cara posterior de brazo, que aumenta el movimiento y disminuye con reposo y a la aplicación de hielo. No cuenta con material de osteosíntesis, únicamente se le colocó un inmovilizador rígido, mismo que se retiró hace 1 semana.</string>
+    <string name="text_exploration_one">A la palpación se encuentra presencia de bandas tensas en trapecio superior derecho que a la digito presión irradia hacia hombro. Rangos de movimiento en cuello disminuidos y fuerza generalizada 3/5 con presencia de dolor.</string>
+    <string name="text_case_one">Paciente femenino de 30 años de complexión ectomorfa acude a servicio en fisioterapia refiriendo tener dolor en cuello y disminución en la movilidad articular. El dolor lo refiere 8/10 en escala verbal numérica de tipo localizado, opresivo e inconstante, que se irradia al hombro y aumenta al elevar el brazo por encima del nivel de la cabeza; así como se mitiga con calor.</string>
+    <string name="text_exploration">Exploración física</string>
+
+</resources>

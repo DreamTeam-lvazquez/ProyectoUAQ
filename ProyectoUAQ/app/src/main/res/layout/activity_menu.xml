@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="0dp"
+        android:gravity="center|top"
+        android:background="@color/color_vin"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Casos"
+            android:textColor="@color/color_white"
+            android:textSize="24dp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.cuboid.cuboidcirclebutton.CuboidButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="20dp"
+                android:text="@string/caso_cl_1"
+                android:onClick="nextActivity0"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                app:cub_border_radius="4dp"
+                app:cub_border_color="@color/white"
+                app:cub_color="@color/color_FFE28109"
+                app:cub_hover_color="@color/color_FF5722"
+                app:cub_riple_effect="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.cuboid.cuboidcirclebutton.CuboidButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="20dp"
+                android:text="@string/caso_cl_2"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                app:cub_border_color="@color/white"
+                app:cub_border_radius="4dp"
+                android:onClick="nextActivity3"
+                app:cub_color="@color/color_FFE28109"
+                app:cub_hover_color="@color/color_FF5722"
+                app:cub_riple_effect="true" />
+
+            <com.cuboid.cuboidcirclebutton.CuboidButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerInParent="true"
+                android:text="@string/caso_cl_3"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                app:cub_border_radius="4dp"
+                app:cub_color="@color/color_FFE28109"
+                app:cub_hover_color="@color/color_FF5722"
+                app:cub_riple_effect="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.cuboid.cuboidcirclebutton.CuboidButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerInParent="true"
+                android:text="@string/caso_cl_4"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                app:cub_border_radius="4dp"
+                app:cub_color="@color/color_FFE28109"
+                app:cub_hover_color="@color/color_FF5722"
+                app:cub_riple_effect="true" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.cuboid.cuboidcirclebutton.CuboidButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="20dp"
+                android:text="@string/caso_cl_5"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                app:cub_border_radius="4dp"
+                app:cub_color="@color/color_FFE28109"
+                app:cub_hover_color="@color/color_FF5722"
+                app:cub_riple_effect="true" />
+
+            <com.cuboid.cuboidcirclebutton.CuboidButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerInParent="true"
+                android:text="@string/caso_cl_6"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                app:cub_border_radius="4dp"
+                app:cub_color="@color/color_FFE28109"
+                app:cub_hover_color="@color/color_FF5722"
+                app:cub_riple_effect="true" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.cuboid.cuboidcirclebutton.CuboidButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerInParent="true"
+                android:text="@string/caso_cl_7"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                app:cub_border_radius="4dp"
+                app:cub_color="@color/color_FFE28109"
+                app:cub_hover_color="@color/color_FF5722"
+                app:cub_riple_effect="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.cuboid.cuboidcirclebutton.CuboidButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="20dp"
+                android:text="@string/caso_cl_8"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                app:cub_border_radius="4dp"
+                app:cub_color="@color/color_FFE28109"
+                app:cub_hover_color="@color/color_FF5722"
+                app:cub_riple_effect="true" />
+            <com.cuboid.cuboidcirclebutton.CuboidButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerInParent="true"
+                android:text="@string/caso_cl_9"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                app:cub_border_radius="4dp"
+                app:cub_color="@color/color_FFE28109"
+                app:cub_hover_color="@color/color_FF5722"
+                app:cub_riple_effect="true" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.cuboid.cuboidcirclebutton.CuboidButton
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_centerInParent="true"
+                android:text="@string/caso_cl_10"
+                android:textColor="@android:color/white"
+                android:textSize="16sp"
+                app:cub_border_radius="4dp"
+                app:cub_color="@color/color_FFE28109"
+                app:cub_hover_color="@color/color_FF5722"
+                app:cub_riple_effect="true" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
+
+

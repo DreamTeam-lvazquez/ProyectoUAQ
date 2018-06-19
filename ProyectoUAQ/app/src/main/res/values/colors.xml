@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2ECCFA</color>
+    <color name="colorPrimaryDark">#2ECCFA</color>
+    <color name="colorAccent">#c4c0c1</color>
+    <color name="color">#96000000</color>
+    <color name="background_color">#333639</color>
+    <color name="color_layout">#A0333639</color>
+
+    <color name="background">#FF0040</color>
+
+    <color name="color_sqrt">#80fcfbfb</color>
+    <color name="red">#8B0000</color>
+
+    <color name="orangeDark">#FF4500</color>
+    <color name="lime">#00FF00</color>
+
+    <color name="black">#3da4a6</color>
+    <color name="blue">#a6c3cc</color>
+    <color name="green">#0B6121</color>
+    <color name="yellow">#F4FA58</color>
+    <color name="white">#ffffff</color>
+    <color name="orange">#FFBF00</color>
+
+    <!---->
+    <color name="ddd">#DDD</color>
+    <color name="stn">#32ffbf00</color>
+
+    <!---->
+    <color name="color_green">#0d0e0b</color>
+    <color name="color_gray">#813e3e3e</color>
+    <color name="color_vin">#48acda</color>
+    <color name="color_degra">#80feffff</color>
+    <color name="color_fon">#80000000</color>
+    <color name="color_white">#FFFFFF</color>
+
+
+    <!--menusecond-->
+    <color name="colorPrimary2">#dd3333</color>
+    <color name="colorPrimaryDark2">#fdfcfc</color>
+    <color name="colorAccent2">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGrapeFruit">#ED5565</color>
+    <color name="colorGrapeFruitDark">#DA4453</color>
+    <color name="colorBitterSweet">#2d8631</color>
+    <color name="colorBitterSweetDark">#246b32</color>
+    <color name="colorFlower">#FFCE54</color>
+    <color name="colorFlowerDark">#e6e4e3</color>
+    <color name="colorGrass">#A0D468</color>
+    <color name="colorGrassDark">#6ad5e9</color>
+    <color name="colorBlueJeans">#509CEC</color>
+    <color name="colorBlueJeansDark">#4A89DC</color>
+    <color name="colorLavander">#AC92EC</color>
+    <color name="colorLavanderDark">#967ADC</color>
+    <color name="colorMint">#eff1f1</color>
+    <color name="colorMintDark">#d7d9d8</color>
+    <color name="colorAqua">#4FC1E9</color>
+    <color name="colorAquaDark">#3BAFDA</color>
+    <color name="colorPinkRose">#EC87C0</color>
+    <color name="colorPinkRoseDark">#D770AD</color>
+    <color name="caso">#377c84</color>
+
+    <color name="gray">#848484</color>
+    <color name="color_white1">#FFFFFF</color>
+    <color name="color_transparent_white">#cccccc</color>
+
+    <color name="color_primary">#FF5722</color>
+    <color name="green_one">#4d4d00</color>
+    <color name="green_two">#333300</color>
+
+    <color name="color_blue_one">#366E6A</color>
+
+    <color name="color_blue">#8FC3C7</color>
+
+
+    <color name="color_00796B">#00796B</color>
+    <color name="color_FFE28109">#48acda</color>htht
+    <color name="color_FF9800">#8bd2e6</color>
+    <color name="color_FF5722">#8bd2e6</color>
+
+
+    <color name="color_text_white">#FFF</color>
+    <color name="color_text_black">#000</color>
+
+
+    <!--Background Colors-->
+    <color name="gradStart">#19AA8B</color>
+    <color name="gradStop">#23A7D8</color>
+</resources>
